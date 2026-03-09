@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[PORTFOLIO](https://github.com/crrovamian/portfolio)
+- [PORTFOLIO](https://github.com/crrovamian/portfolio)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
