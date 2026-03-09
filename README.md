@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+- [PORTFOLIO](https://github.com/crrovamian/portfolio)
+
 <!--
 **crrovamian/crrovamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- [PORTFOLIO](https://github.com/crrovamian/portfolio)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
